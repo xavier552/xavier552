@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm XAVIER VARGHESE</h1>
 <h3 align="center">A passionate Automation Specialist from India</h3>
 
-- 🌱 I’m currently learning **Selenium Webdriver-(Junit, TestNG),Jira**
+- 🌱 I’m currently learning **Selenium Webdriver-(Junit, TestNG), Jmeter, Postman**
 
 - 🤝 I’m looking for help with **Test Automation, Manual Testing, Testing Frameworks**
 
