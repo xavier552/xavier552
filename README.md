@@ -6,7 +6,7 @@
 - 💼 Currently working as an **Associate QA Engineer** with experience in both web and mobile app testing
 - 🧪 Skilled in creating robust automation frameworks using **Selenium WebDriver**, **TestNG**, and **JUnit**
 - 📈 Proficient in **API testing** using **Postman** and **performance testing** with **JMeter**
-- 🔄 Experience with **Agile methodologies**, test case management, and defect tracking tools
+- 🔄 Experience with  test case management, and defect tracking tools
 - 🌱 Continuously upgrading skills in test automation and CI/CD integration
 - 💬 Ask me about **Automation Frameworks, Bug Reporting, Test Strategies**
 - 📫 Reach me at: **xaviervarghese468@gmail.com**
